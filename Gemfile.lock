@@ -93,6 +93,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     concurrent-ruby (1.2.2)
+    cowsay (0.3.0)
     crass (1.0.6)
     date (3.3.3)
     debug (1.8.0)
@@ -251,6 +252,7 @@ DEPENDENCIES
   bootsnap
   capybara
   coffee-rails
+  cowsay (~> 0.3.0)
   debug
   importmap-rails
   jbuilder

@@ -35,6 +35,7 @@ gem 'better_errors'
 gem 'sass-rails'
 gem 'sassc-rails'
 gem "table_print"
+gem "cowsay", "~> 0.3.0"
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
